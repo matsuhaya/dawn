@@ -31,7 +31,7 @@ func printHelp() {
 	help := `Dawn - ルーチントラッカー
 
 使い方:
-  dawn [ルーチン内容]    ルーチンを記録する（5:00〜8:00のみ）
+  dawn [ルーチン内容]    ルーチンを記録する（5:00〜7:59のみ）
   dawn log              継続状況を表示する
   dawn history          過去の記録を一覧表示する
   dawn edit             JSONファイルを直接編集する
